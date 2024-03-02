@@ -1,0 +1,4 @@
+# Please replace 0.0 below with your answer (number only) to the data question.
+0.0
+
+# Please do not write anything else into this file.
